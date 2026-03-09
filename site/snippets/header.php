@@ -21,15 +21,11 @@
 <!-- Navigation -->
 <nav class="nav">
   <ul class="nav-list">
-    <?php foreach($site->navigation()->toPages() as $subpage): ?>
-      <li>
-        <a href="<?= $subpage->url() ?>" class="<?= $subpage->isOpen() ? 'active' : '' ?>">
-          <?= $subpage->title() ?>
-        </a>
-      </li>
-    <?php endforeach ?>
+    <li><a href="<?= url('ni') ?>" class="<?= $page->slug() === 'ni' ? 'active' : '' ?>">PROJECT NI</a></li>
+    <li><a href="<?= url('/') ?>" class="<?= $page->isHomePage() ? 'active' : '' ?>">SOUNDSAMPLES</a></li>
+    <li><a href="<?= url('compositions') ?>" class="<?= $page->slug() === 'compositions' ? 'active' : '' ?>">COMPOSITIONS</a></li>
+    <li><a href="<?= url('members') ?>" class="<?= $page->slug() === 'members' ? 'active' : '' ?>">MEMBERS</a></li>
+    <li><a href="<?= url('records') ?>" class="<?= $page->slug() === 'records' ? 'active' : '' ?>">RECORDS</a></li>
+    <li><a href="<?= url('colophon') ?>" class="<?= $page->slug() === 'colophon' ? 'active' : '' ?>">COLOPHON</a></li>
   </ul>
 </nav>
-
-
-

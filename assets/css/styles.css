@@ -4,16 +4,17 @@
    1. CSS VARIABLES
    2. FONT IMPORTS
    3. BASE STYLES & RESET
-   4. NAVIGATION
-   5. INFO GRID
-   6. PLAYLIST
-   7. CONTENT LISTS
-   8. BUTTONS
-   9. BOTTOM CONTROLS
-   10. CENTER DESCRIPTION
-   11. ANIMATIONS
-   12. TEMPLATE SPECIFIC
-   13. MOBILE RESPONSIVE
+   4. MOBILE BLOCK
+   5. NAVIGATION
+   6. INFO GRID
+   7. PLAYLIST
+   8. CONTENT LISTS
+   9. BUTTONS
+   10. BOTTOM CONTROLS
+   11. CENTER DESCRIPTION
+   12. ANIMATIONS
+   13. TEMPLATE SPECIFIC
+   14. MOBILE RESPONSIVE
    =========================================== */
 
 /* =========================================== 
@@ -104,7 +105,14 @@ body {
 }
 
 /* =========================================== 
-   4. NAVIGATION
+   4. MOBILE BLOCK
+   =========================================== */
+.mobile-block {
+    display: none;
+}
+
+/* =========================================== 
+   5. NAVIGATION
    =========================================== */
 .nav {
     display:         flex;
@@ -152,7 +160,7 @@ body {
 }
 
 /* =========================================== 
-   5. INFO GRID
+   6. INFO GRID
    =========================================== */
 .center-info-grid {
     position:              absolute;
@@ -205,8 +213,8 @@ body {
 }
 
 .grid-item a {
-    color:                inherit;
-    text-decoration:      underline;
+    color:                 inherit;
+    text-decoration:       underline;
     text-underline-offset: 3px;
 }
 
@@ -227,8 +235,8 @@ body {
 
 /* Image frame in grid */
 .img-frame {
-    width:          6rem;
-    height:         6rem;
+    width:          4.5rem;
+    height:         4.5rem;
     margin-bottom:  var(--spacing-unit);
     display:        block;
     cursor:         zoom-in;
@@ -239,16 +247,16 @@ body {
 }
 
 .img-frame img {
-    width:          100%;
-    height:         100%;
-    display:        block;
-    object-fit:     cover;
-    --x:            50%;
-    --y:            50%;
+    width:            100%;
+    height:           100%;
+    display:          block;
+    object-fit:       cover;
+    --x:              50%;
+    --y:              50%;
     transform-origin: var(--x) var(--y);
-    transition:     transform 0.1s ease-out;
-    position:       relative;
-    filter:         grayscale(100%);
+    transition:       transform 0.1s ease-out;
+    position:         relative;
+    filter:           grayscale(100%);
 }
 
 .img-frame:hover img {
@@ -263,7 +271,7 @@ body {
 }
 
 /* =========================================== 
-   6. PLAYLIST
+   7. PLAYLIST
    =========================================== */
 .playlist-toggle {
     position:        fixed;
@@ -367,15 +375,15 @@ body {
 }
 
 .pl-item.playing::before {
-    content:   "";
-    position:  absolute;
-    top:       0;
-    left:      50%;
-    transform: translateX(-50%);
-    width:     100vw;
-    height:    100%;
+    content:    "";
+    position:   absolute;
+    top:        0;
+    left:       50%;
+    transform:  translateX(-50%);
+    width:      100vw;
+    height:     100%;
     background: var(--color-text);
-    z-index:   -1;
+    z-index:    -1;
 }
 
 .pl-item.playing .pl-num,
@@ -387,18 +395,18 @@ body {
 }
 
 .pl-play-btn {
-    background:  transparent;
-    border:      none;
-    cursor:      pointer;
-    padding:     0;
+    background:   transparent;
+    border:       none;
+    cursor:       pointer;
+    padding:      0;
     margin-right: 20px;
-    font-family: var(--font-primary);
-    font-size:   var(--font-size-nav);
-    color:       var(--color-text);
-    line-height: 1;
-    width:       40px;
-    text-align:  center;
-    flex-shrink: 0;
+    font-family:  var(--font-primary);
+    font-size:    var(--font-size-nav);
+    color:        var(--color-text);
+    line-height:  1;
+    width:        40px;
+    text-align:   center;
+    flex-shrink:  0;
 }
 
 .pl-play-btn:hover {
@@ -452,7 +460,7 @@ body {
 }
 
 /* =========================================== 
-   7. CONTENT LISTS
+   8. CONTENT LISTS
    =========================================== */
 .soundsamples,
 .compositions-list {
@@ -467,6 +475,7 @@ body {
     pointer-events: auto;
     display:        flex;
     align-items:    flex-end;
+    scrollbar-width: none;
 }
 
 .soundsamples {
@@ -549,24 +558,27 @@ body {
 }
 
 /* =========================================== 
-   8. BUTTONS
+   9. BUTTONS
    =========================================== */
 .play-btn,
 .record-btn,
 .member-btn {
-    font-family:    var(--font-primary);
-    font-size:      1.05rem;
-    color:          var(--color-text);
-    background:     transparent;
-    border:         none;
-    cursor:         pointer;
-    pointer-events: auto;
-    white-space:    nowrap;
-    padding:        1px;
-    margin:         0;
-    line-height:    1;
-    text-transform: uppercase;
-    transition:     all 0.1s ease;
+    font-family:        var(--font-primary);
+    font-size:          1rem;
+    color:              var(--color-text);
+    background:         transparent;
+    border:             none;
+    cursor:             pointer;
+    pointer-events:     auto;
+    white-space:        nowrap;
+    padding:            1px;
+    margin:             0;
+    line-height:        1;
+    text-transform:     uppercase;
+    transition:         all 0.1s ease;
+    -webkit-appearance: none;
+    -moz-appearance:    none;
+    appearance:         none;
 }
 
 .play-btn {
@@ -595,7 +607,7 @@ body {
 }
 
 /* =========================================== 
-   9. BOTTOM CONTROLS
+   10. BOTTOM CONTROLS
    =========================================== */
 #bottom-stack {
     font-family:    var(--font-primary);
@@ -628,12 +640,12 @@ body {
 }
 
 .ctrl-inner {
-    width:    100%;
-    padding:  0 1px;
-    position: relative;
-    display:  flex;
+    width:       100%;
+    padding:     0 1px;
+    position:    relative;
+    display:     flex;
     align-items: center;
-    gap:      1px;
+    gap:         1px;
 }
 
 .ctrl-num {
@@ -655,11 +667,11 @@ body {
 }
 
 .ctrl-range-wrap {
-    flex-grow:   1;
-    display:     flex;
-    align-items: center;
-    position:    relative;
-    z-index:     1;
+    flex-grow:        1;
+    display:          flex;
+    align-items:      center;
+    position:         relative;
+    z-index:          1;
     --thumb-rotation: 0deg;
 }
 
@@ -694,19 +706,23 @@ body {
 }
 
 .ctrl-range {
-    width:       100%;
-    appearance:  none;
-    background:  transparent;
-    cursor:      ew-resize;
-    margin:      0;
-    position:    relative;
-    z-index:     1;
+    width:              100%;
+    height:             100vh;
+    -webkit-appearance: none;
+    -moz-appearance:    none;
+    appearance:         none;
+    background:         transparent;
+    cursor:             ew-resize;
+    margin:             0;
+    position:           relative;
+    z-index:            1;
 }
 
 .ctrl-range:focus {
     outline: none;
 }
 
+/* WebKit (Chrome, Safari, Edge) */
 .ctrl-range::-webkit-slider-runnable-track {
     width:      100%;
     height:     100vh;
@@ -714,20 +730,23 @@ body {
 }
 
 .ctrl-range::-webkit-slider-thumb {
-    height:           100vh;
-    width:            0.1px;
-    background:       var(--color-text);
-    cursor:           ew-resize;
-    appearance:       none;
-    transform:        rotate(var(--thumb-rotation));
-    transform-origin: center center;
-    transition:       transform 0.15s ease-out;
+    height:             100vh;
+    width:              0.1px;
+    background:         var(--color-text);
+    cursor:             ew-resize;
+    -webkit-appearance: none;
+    appearance:         none;
+    transform:          rotate(var(--thumb-rotation));
+    transform-origin:   center center;
+    transition:         transform 0.15s ease-out;
 }
 
+/* Firefox */
 .ctrl-range::-moz-range-track {
     width:      100%;
-    height:     200vh;
+    height:     100vh;
     background: var(--color-ui-gray);
+    border:     none;
 }
 
 .ctrl-range::-moz-range-thumb {
@@ -736,13 +755,20 @@ body {
     background:       var(--color-text);
     cursor:           ew-resize;
     border:           none;
+    border-radius:    0;
+    -moz-appearance:  none;
     transform:        rotate(var(--thumb-rotation));
     transform-origin: center center;
     transition:       transform 0.15s ease-out;
 }
 
+.ctrl-range::-moz-range-progress {
+    background: var(--color-ui-gray);
+    height:     100vh;
+}
+
 /* =========================================== 
-   10. CENTER DESCRIPTION
+   11. CENTER DESCRIPTION
    =========================================== */
 .center-desc-layout {
     position:  absolute;
@@ -792,7 +818,7 @@ body {
 }
 
 /* =========================================== 
-   11. ANIMATIONS
+   12. ANIMATIONS
    =========================================== */
 @keyframes fadeIn {
     from {
@@ -826,7 +852,7 @@ body {
 }
 
 /* =========================================== 
-   12. TEMPLATE SPECIFIC
+   13. TEMPLATE SPECIFIC
    =========================================== */
 .template-records .grid-item,
 .template-members .grid-item,
@@ -856,272 +882,32 @@ body {
 }
 
 /* =========================================== 
-   13. MOBILE RESPONSIVE
+   14. MOBILE RESPONSIVE
    =========================================== */
-@media (max-width: 430px) {
-    :root {
-        --font-size-nav:       0.8rem;
-        --font-size-secondary: 0.7rem;
-        --spacing-unit:        0.8rem;
-        --nav-height:          4rem;
-        --bottom-spacing:      10vh;
-        --bottom-controls:     3vh;
-    }
-
+@media (max-width: 768px) {
     body {
-        overflow-x: hidden;
+        overflow: hidden;
     }
 
-    /* Navigation */
-    .nav {
-        padding: 0.6rem;
-        height:  var(--nav-height);
-    }
-
-    .nav-list {
-        grid-template-columns: repeat(3, 1fr);
-        gap:             0.5rem;
+    .mobile-block {
+        display:         flex;
+        align-items:     center;
         justify-content: center;
-        justify-items:   center;
+        position:        fixed;
+        top:             0;
+        left:            0;
+        width:           100%;
+        height:          100%;
+        background:      var(--color-bg);
+        z-index:         99999;
     }
 
-    .nav a {
-        font-size: var(--font-size-nav);
-        color:     var(--color-text);
-    }
-
-    .nav a::before {
-        display: none;
-    }
-
-    /* Playlist */
-    .playlist-toggle {
-        position:         fixed !important;
-        bottom:           0.5rem !important;
-        top:              auto !important;
-        left:             50%;
-        transform:        translateX(-50%);
-        font-size:        var(--font-size-nav);
-        padding:          0.6rem;
-        z-index:          40000;
-        background-color: #ffffff;
-        width:            fit-content;
-    }
-
-    .playlist-toggle.active {
-        display: none !important;
-    }
-
-    #side-playlist {
-        position:   relative !important;
-        top:        auto !important;
-        margin-top: 2rem;
-        overflow-y: visible !important;
-        height:     auto !important;
-    }
-
-    #pl-header {
-        padding:   0.8rem;
-        font-size: var(--font-size-secondary);
-        flex-wrap: wrap;
-        gap:       0.5rem;
-    }
-
-    .play-all-btn {
-        font-size:   var(--font-size-secondary);
-        margin-left: auto;
-    }
-
-    #pl-list-container {
-        padding:    0 0.8rem 0.8rem;
-        max-height: 40vh;
-        overflow-y: auto;
-    }
-
-    .pl-item {
-        padding:   0.6rem 0;
-        font-size: var(--font-size-secondary);
-    }
-
-    .pl-num {
-        min-width:    20px;
-        font-size:    var(--font-size-secondary);
-        margin-right: 8px;
-    }
-
-    .pl-play-btn {
-        width:        35px;
-        margin-right: 8px;
-        font-size:    var(--font-size-secondary);
-    }
-
-    .pl-title {
-        font-size: var(--font-size-secondary);
-        min-width: 80px;
-    }
-
-    .pl-duration {
-        min-width:    35px;
-        margin-right: 10px;
-        font-size:    var(--font-size-secondary);
-    }
-
-    .pl-close {
-        font-size: var(--font-size-secondary);
-    }
-
-    /* Info Grid */
-    .center-info-grid,
-    .template-compositions .center-info-grid,
-    .template-records .center-info-grid,
-    .template-members .center-info-grid {
-        display:               grid !important;
-        grid-template-columns: 1fr !important;
-        gap:                   0.8rem !important;
-        align-content:         start !important;
-        position:              relative !important;
-        top:                   auto !important;
-        margin-top:            var(--nav-height);
-        padding:               0.8rem;
-        padding-bottom:        2rem !important;
-        height:                auto !important;
-        min-height:            calc(100vh - var(--nav-height)) !important;
-        max-height:            none !important;
-        overflow-y:            visible !important;
-    }
-
-    .grid-item {
-        font-size:    var(--font-size-secondary);
-        padding-right: 5px;
-        line-height:  1.2;
-    }
-
-    .data-content {
-        margin-bottom: 0.3rem;
-        display:       grid !important;
-        gap:           0.5rem !important;
-    }
-
-    .gallery-container {
-        display:   flex;
-        flex-wrap: wrap;
-        gap:       8px;
-        width:     100%;
-    }
-
-    .img-frame {
-        position:       relative;
-        width:          auto !important;
-        height:         4rem !important;
-        aspect-ratio:   1 / 1 !important;
-        margin-bottom:  0 !important;
-        overflow:       hidden !important;
-        cursor:         zoom-in;
-        pointer-events: auto !important;
-        z-index:        100 !important;
-        padding:        2px;
-    }
-
-    .img-frame img {
-        width:          100% !important;
-        height:         100% !important;
-        object-fit:     cover !important;
-        pointer-events: none !important;
-        transition:     transform 0.1s ease-out;
-        filter:         grayscale(100%) !important;
-    }
-
-    .center-info-grid .grid-item:last-child {
-        overflow-y:     auto !important;
-        height:         100%;
-        position:       relative;
-        z-index:        51 !important;
-        pointer-events: none !important;
-    }
-
-    /* Content Lists */
-    .soundsamples,
-    .compositions-list {
-        position:                  fixed;
-        top:                       10rem;
-        padding:                   0 0.5rem;
-        -webkit-overflow-scrolling: touch;
-        z-index:                   30000;
-        transform:                 rotate(90deg);
-    }
-
-    .soundsamples ul,
-    .compositions-list ul {
-        gap:            0.05rem;
-        padding-bottom: 1rem;
-    }
-
-    .soundsamples li,
-    .compositions-list li {
-        min-width: 1rem;
-    }
-
-    .records-list,
-    .members-list {
-        position:   fixed !important;
-        bottom:     var(--bottom-spacing);
-        max-height: 35vh;
-        left:       0.8rem;
-        width:      calc(100% - 1.6rem);
-        z-index:    30000;
-    }
-
-    /* Buttons */
-    .play-btn,
-    .record-btn,
-    .member-btn {
-        font-size: 0.8rem;
-    }
-
-    /* Bottom controls hidden on mobile */
-    #bottom-stack,
-    .ctrl-row,
-    .ctrl-num,
-    .ctrl-range {
-        display: none !important;
-    }
-
-    /* Center Description */
-    .center-desc-layout {
-        position:     relative !important;
-        margin-top:   var(--nav-height);
-        width:        calc(100% - 1.6rem) !important;
-        margin-left:  0.8rem !important;
-        margin-right: 0.8rem !important;
-        left:         auto !important;
-        right:        auto !important;
-        height:       auto !important;
-        min-height:   calc(100vh - var(--nav-height)) !important;
-        max-height:   none !important;
-        overflow-y:   visible !important;
-    }
-
-    .desc-inner-scroll {
-        font-size:   var(--font-size-secondary);
-        line-height: 1.2;
-    }
-
-    /* Touch optimization */
-    .play-btn,
-    .record-btn,
-    .member-btn,
-    .pl-play-btn,
-    .pl-close,
-    .ctrl-num {
-        -webkit-tap-highlight-color: transparent;
-        touch-action:                manipulation;
-    }
-
-    @keyframes vibrate {
-        0%   { transform: translate(0); }
-        25%  { transform: translate(-1px,  0.5px); }
-        50%  { transform: translate(0); }
-        75%  { transform: translate( 1px, -0.5px); }
-        100% { transform: translate(0); }
+    .mobile-block-text {
+        font-family: var(--font-primary);
+        font-size:   1rem;
+        text-align:  center;
+        line-height: 1.6;
+        color:       var(--color-text);
+        padding:     1rem;
     }
 }
