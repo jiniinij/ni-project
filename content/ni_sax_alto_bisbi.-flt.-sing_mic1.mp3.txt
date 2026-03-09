@@ -1,0 +1,33 @@
+Duration: 00:43
+
+----
+
+Instrument: Saxophone
+
+----
+
+Description: <p><strong>Simultaneously applying Bisbigliando (alternating fingerings), Flutter Tonguing (rolling the tongue), and Singing (producing a vocal pitch) on the alto saxophone.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://muGLgdrnrcMPA0Lz
+
+----
+
+Sort: 88
+
+----
+
+Uuid: sMxLX9fddJ9pUMfY
+
+----
+
+Template: sound

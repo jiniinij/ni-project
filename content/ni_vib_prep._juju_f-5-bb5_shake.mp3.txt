@@ -1,0 +1,33 @@
+Duration: 00:20
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Striking a vibraphone bar while a Juju Rattle is placed on it, causing it to vibrate along with the bar.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 105
+
+----
+
+Uuid: hIk1xyl5uWTBD217
+
+----
+
+Template: sound

@@ -1,0 +1,33 @@
+Duration: 01:00
+
+----
+
+Instrument: Guitar
+
+----
+
+Description: <p><strong>Tambour / Striking the body of the guitar to make the strings resonate along with it.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 50
+
+----
+
+Uuid: AAEuHYzHXXOvCxnx
+
+----
+
+Template: sound

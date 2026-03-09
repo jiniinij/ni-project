@@ -1,0 +1,33 @@
+Duration: 00:21
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Stick On Stick / Fixing the tip of one drumstick on the snare head and striking that stick with another stick.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 69
+
+----
+
+Uuid: dA84CG7SUQyk21j0
+
+----
+
+Template: sound

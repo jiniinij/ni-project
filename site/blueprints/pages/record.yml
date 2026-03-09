@@ -1,0 +1,36 @@
+fields:
+  title:
+    type: text
+
+  date:
+    type: date
+
+  location:
+    type: text
+
+  category:
+    type: select
+    options:
+      - PracticeSession
+      - RecordingSession
+      - Showcase
+
+  Subject:
+    type: text
+
+  participants:
+    type: pages
+    multiple: true
+    query: site.find("members").children
+    templates: 
+     -members
+
+  Description:
+    type: writer
+
+  photos:
+    type: files
+    multiple: true
+    accept:
+      mime: image/*
+  

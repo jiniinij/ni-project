@@ -1,0 +1,33 @@
+Duration: 00:58
+
+----
+
+Instrument: Flute
+
+----
+
+Description: <p><strong>Jet Whistle / Covering the entire embouchure hole of the flute with the lips and blowing air forcefully.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 38
+
+----
+
+Uuid: k1MGXOxYWgqJAkp6
+
+----
+
+Template: sound

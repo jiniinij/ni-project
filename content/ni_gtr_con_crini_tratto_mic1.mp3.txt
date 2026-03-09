@@ -1,0 +1,33 @@
+Duration: 02:03
+
+----
+
+Instrument: Guitar
+
+----
+
+Description: <p><strong>Con Crini Tratto / Bowing the guitar strings with the bow hair of a double bass bow.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 47
+
+----
+
+Uuid: hhFAf4Y1L5MYvJNQ
+
+----
+
+Template: sound

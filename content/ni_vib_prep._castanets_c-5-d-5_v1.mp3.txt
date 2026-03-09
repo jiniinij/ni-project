@@ -1,0 +1,33 @@
+Duration: 00:28
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Striking a vibraphone bar while castanets are placed on it, causing them to vibrate along with the bar.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 103
+
+----
+
+Uuid: UG6afjoFFRx9O9Fr
+
+----
+
+Template: sound

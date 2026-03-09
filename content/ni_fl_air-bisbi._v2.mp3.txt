@@ -1,0 +1,33 @@
+Duration: 00:05
+
+----
+
+Instrument: Flute
+
+----
+
+Description: <p><strong>Simultaneously applying Air Sound (emphasizing air sound over a clear pitch) and Bisbigliando (playing the same note by alternating between different fingerings).</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 31
+
+----
+
+Uuid: 41NpLBPZ0HJWanun
+
+----
+
+Template: sound

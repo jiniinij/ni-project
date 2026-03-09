@@ -1,0 +1,33 @@
+Duration: 00:38
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Bowing / Bowing the rim of the cymbal with the bow hair of a double bass bow.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 63
+
+----
+
+Uuid: 1kJLkrfufwB5EDkD
+
+----
+
+Template: sound

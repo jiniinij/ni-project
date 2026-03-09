@@ -1,0 +1,33 @@
+Duration: 02:10
+
+----
+
+Instrument: Flute
+
+----
+
+Description: <p><strong>Improvisation sample by Hyewon Kim, jazz flutist of Green Hour.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://22DXbgVPrB8LL9D1
+
+----
+
+Sort: 36
+
+----
+
+Uuid: KoAClIm2PcJLX6Ip
+
+----
+
+Template: sound

@@ -1,0 +1,33 @@
+Duration: 00:24
+
+----
+
+Instrument: Guitar
+
+----
+
+Description: <p><strong>Lightly sliding a finger along the strings to make them resonate.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 49
+
+----
+
+Uuid: 008mb7t4pZ6gGq97
+
+----
+
+Template: sound

@@ -1,0 +1,16 @@
+title: Site
+
+sections:
+  pages:
+    type: pages
+
+  fields:
+    type: fields
+    fields:
+      navigation:
+        type: pages
+
+  sounds:
+    type: files
+    label: Sound files 
+    template: sound 

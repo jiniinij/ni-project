@@ -1,0 +1,33 @@
+Duration: 00:05
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Striking the Middle Tom with a soft mallet.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 79
+
+----
+
+Uuid: CCijiYqpDxqqQGiz
+
+----
+
+Template: sound

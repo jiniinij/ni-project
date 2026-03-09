@@ -1,0 +1,33 @@
+Duration: 00:18
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Rubbing the snare drum head with a Superball Mallet.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 73
+
+----
+
+Uuid: dRHRRwzb7QpSBWco
+
+----
+
+Template: sound

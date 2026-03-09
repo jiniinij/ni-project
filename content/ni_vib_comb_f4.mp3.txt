@@ -1,0 +1,33 @@
+Duration: 00:59
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Scraping the rim of the vibraphone bars with a comb.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 99
+
+----
+
+Uuid: jkYRgWyXBTTOIQSl
+
+----
+
+Template: sound

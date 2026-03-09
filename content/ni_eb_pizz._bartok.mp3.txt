@@ -1,0 +1,33 @@
+Duration: 00:21
+
+----
+
+Instrument: Electric Bass
+
+----
+
+Description: <p><strong>Bartok Pizzicato / Pinching a bass guitar string (with thumb and index finger) and plucking it vertically with strong force, causing it to strike the fingerboard.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://upecXLHfp0VlzSbG
+
+----
+
+Sort: 25
+
+----
+
+Uuid: QhIYhP6J7cBzqwLl
+
+----
+
+Template: sound

@@ -1,0 +1,33 @@
+Duration: 00:18
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Striking vibraphone bars with a plastic cup attached between them, causing the cup and bars to vibrate simultaneously.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 106
+
+----
+
+Uuid: f42Bop5EDyYY3G2t
+
+----
+
+Template: sound

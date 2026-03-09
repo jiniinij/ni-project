@@ -1,0 +1,33 @@
+Duration: 00:16
+
+----
+
+Instrument: Electric Bass
+
+----
+
+Description: <p><strong>Irregularly pressing the bass guitar strings with the left hand.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://upecXLHfp0VlzSbG
+
+----
+
+Sort: 28
+
+----
+
+Uuid: ONTE0uVJ8RdwxBEa
+
+----
+
+Template: sound

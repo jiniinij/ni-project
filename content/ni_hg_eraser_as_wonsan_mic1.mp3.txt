@@ -1,0 +1,33 @@
+Duration: 03:11
+
+----
+
+Instrument: Haegeum
+
+----
+
+Description: <p><strong>Bowing the Haegeum with an eraser inserted on the Bok-pan* instead of the Wonsan**.<br><br>*Bok-pan: The thin wooden plate attached to the front of the Haegeum's resonance box.<br>**Wonsan: A small wooden piece that supports the strings and transmits vibrations to the resonance box, serving the same role as a bridge on other string instruments.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://uiqTNXDtCru8JZG1
+
+----
+
+Sort: 58
+
+----
+
+Uuid: 1qytj9jrN8O4aYPq
+
+----
+
+Template: sound

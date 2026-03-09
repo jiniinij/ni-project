@@ -1,0 +1,33 @@
+Duration: 08:44
+
+----
+
+Instrument: 
+
+----
+
+Description: <p>Can the aesthetics of improvisation remain valid even within an already determined future? If so, is it possible to prolong and expand the fleeting 'moment' of improvisation that usually evaporates? Originating from these inquiries, this work utilizes recorded improvisation as its primary material.</p><p>The etymology of 'improvisation' derives from the Latin meaning 'not seen before' (improvisus), aptly illustrating the aesthetic of unpredictability. In improvisation, the scope of this unpredictability typically resides at the very edge of an orbit—such as an established progression or directionality—and the more precariously it maintains that boundary, the more highly it is regarded. Here, I sought to connect improvisation with the physical concept of 'perturbation'—a minute external disturbance, deviation, or force applied to a stable system or motion. Rather than focusing on the central orbit, I concentrated on the obstacles that disturb it, utilizing them as key musical elements.</p><p>The 'seamless, unawkward, and natural connection,' often considered the fundamental virtue of improvisation, is roughly severed and outright betrayed in this piece. This intentional 'awkwardness' generates a different form of unpredictability, leading to an experiment in 'subtractive' improvisation. The 'additive' structure, instantaneously created through improvisation, is paradoxically revealed as it is subjected to a subtractive restructuring by the composer—or editor.</p><p>The title is borrowed from Alain Resnais's film of the same name, 'You Ain't Seen Nothin' Yet' (Vous n'avez encore rien vu), reflecting a determination to explore improvisation from a new perspective.</p>
+
+----
+
+Date: 2025-12-18
+
+----
+
+Location: KR / Seoul / Seogyo Square
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 115
+
+----
+
+Uuid: VS3bs50QxkqMc41U
+
+----
+
+Template: sound

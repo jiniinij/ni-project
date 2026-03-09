@@ -1,0 +1,33 @@
+Duration: 00:14
+
+----
+
+Instrument: Bassoon
+
+----
+
+Description: <p><strong>Lala Tongue / Striking the tip of the reed with the tongue as if articulating "lala" while blowing air, without producing a normal tone.</strong></p>
+
+----
+
+Date: 2025-01-22
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://6p8B5cwRjvtrZZUs
+
+----
+
+Sort: 6
+
+----
+
+Uuid: yM7IbIxuPUmr8Rf2
+
+----
+
+Template: sound

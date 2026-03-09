@@ -1,0 +1,19 @@
+fields:
+
+  bio:
+    type: writer
+
+  category:
+    type: multiselect
+    options:
+      composer: Composer
+      player: Instrument Player
+
+  introduction:
+    type: writer
+
+  email:
+    type: url
+
+  instagram:
+    type: url

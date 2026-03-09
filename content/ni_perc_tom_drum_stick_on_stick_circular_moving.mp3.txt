@@ -1,0 +1,33 @@
+Duration: 00:10
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Rubbing a fixed drumstick in a circular motion with another stick, while the tip of the first stick is held against the tom-tom head.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 80
+
+----
+
+Uuid: ztVuMdoJ2eADHfb4
+
+----
+
+Template: sound

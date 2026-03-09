@@ -1,0 +1,33 @@
+Duration: 00:11
+
+----
+
+Instrument: Flute
+
+----
+
+Description: <p><strong>Pronouncing the plosive sounds [p], [t], and [k] through the flute to resonate them.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 29
+
+----
+
+Uuid: xXMxwOd46NKWkgOK
+
+----
+
+Template: sound

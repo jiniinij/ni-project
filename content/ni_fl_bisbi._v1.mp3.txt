@@ -1,0 +1,33 @@
+Duration: 02:33
+
+----
+
+Instrument: Flute
+
+----
+
+Description: <p><strong>Bisbigliando / Playing the same note by alternating between different fingerings on the flute.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 33
+
+----
+
+Uuid: PoiTcfvuyfCthi0Y
+
+----
+
+Template: sound

@@ -1,0 +1,29 @@
+Title: 'a few tininess' suite for inst.
+
+----
+
+Audio: - file://fQwWVPzU0NuQB833
+
+----
+
+Duration: 
+
+----
+
+Composer: - page://8UeOPI0u36eK9ZkF
+
+----
+
+Instrumentation: <p>Fl. / Cl. B♭ / Bsn. / Perc. / Va.</p>
+
+----
+
+Description: <p>This project presents a suite composed from recorded sounds of various instrumental groups. Each movement is built around the timbres of specific instruments, focusing on shaping a distinct musical identity within a limited palette of sonic materials.</p><p>Movements I and II each employ a single instrumental group and a confined set of sources, heightening the focus on timbral depth and expressive nuance.</p><p>Movement III, by contrast, introduces a broader spectrum of instruments and sounds. This expansion is not merely additive, but rather a means of achieving contrast and equilibrium within the overall architecture through the interplay of opposing elements.</p>
+
+----
+
+Date: 2025-01-01
+
+----
+
+Uuid: fOQi5bEAIw5nGnhM

@@ -1,0 +1,33 @@
+Duration: 01:53
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Rubbing the tom-tom head with a Superball Mallet.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 84
+
+----
+
+Uuid: 0KKJ0NnNA9SCSxcy
+
+----
+
+Template: sound

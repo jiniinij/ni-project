@@ -1,0 +1,33 @@
+Duration: 00:47
+
+----
+
+Instrument: Electric Bass
+
+----
+
+Description: <p><strong>Touching a card loosely to the string after picking, causing it to buzz or flutter against the vibration.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://upecXLHfp0VlzSbG
+
+----
+
+Sort: 20
+
+----
+
+Uuid: bgoOunborOfOhJ57
+
+----
+
+Template: sound

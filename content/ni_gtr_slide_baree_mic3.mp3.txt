@@ -1,0 +1,33 @@
+Duration: 00:42
+
+----
+
+Instrument: Guitar
+
+----
+
+Description: <p><strong>Sliding the finger along the frets while fingering a note to make the string resonate.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 48
+
+----
+
+Uuid: FuBEs7ufuMZ1ML7j
+
+----
+
+Template: sound

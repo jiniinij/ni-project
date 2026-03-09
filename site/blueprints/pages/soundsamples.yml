@@ -1,0 +1,6 @@
+fields:
+  sounds:
+    label: Sound samples
+    type: files
+    query: site.files.template("sound")
+    multiple: true

@@ -1,0 +1,33 @@
+Duration: 00:24
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Bowing / Bowing the vibraphone bars with the bow hair of a double bass bow.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 98
+
+----
+
+Uuid: 4yT29z9i7uLld2vB
+
+----
+
+Template: sound

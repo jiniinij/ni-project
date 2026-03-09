@@ -1,0 +1,33 @@
+Duration: 09:51
+
+----
+
+Instrument: Electric Bass
+
+----
+
+Description: <p><strong>Rubbing a plastic card against the bass guitar strings.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://upecXLHfp0VlzSbG
+
+----
+
+Sort: 27
+
+----
+
+Uuid: hgOiyXWUSXbdNmtI
+
+----
+
+Template: sound

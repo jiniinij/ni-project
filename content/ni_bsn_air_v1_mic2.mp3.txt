@@ -1,0 +1,33 @@
+Duration: 00:25
+
+----
+
+Instrument: Bassoon
+
+----
+
+Description: <p><strong>Air Sound / Generating an air sound by creating a gap between the reed and the lips.</strong></p>
+
+----
+
+Date: 2025-01-22
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://6p8B5cwRjvtrZZUs
+
+----
+
+Sort: 1
+
+----
+
+Uuid: 60TeZfIKXN9ZGOYv
+
+----
+
+Template: sound

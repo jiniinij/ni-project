@@ -1,0 +1,33 @@
+Duration: 04:40
+
+----
+
+Instrument: 
+
+----
+
+Description: <p>'Forest Wanderer' is an electronic music work composed entirely of recorded samples from acoustic instruments. This piece originates from the perspective that the greatest strength of sampling lies not in mere expansion or reproduction, but in 'infinitude.'</p><p>Once recorded, sound is no longer tethered to a specific moment of performance or a stage. It repeats, transforms, and continues to function in new ways across different environments. This characteristic liberates the structures and sounds of classical music—traditionally confined to the concert hall—opening them up to spaces beyond the stage.</p><p>All sounds used in the work are derived from recorded extended techniques of actual instruments. Rather than appearing as alien effects, these techniques are naturally woven into the musical flow. Listeners perceive them as textures or movements before recognizing them as 'special techniques,' allowing the idioms of contemporary music to be sensorially imprinted without the need for explanation.</p><p>The ultimate goal of this work extends beyond a single, finalized sonic result. It envisions a state where sampled sounds flow into diverse contexts, are repeatedly encountered, and accumulate within the listener's auditory experience. This accumulation serves as a foundation: when the audience later encounters refined contemporary music performed live on stage, they will hear these sounds not as a foreign language, but as an extension of already experienced sensations.</p>
+
+----
+
+Date: 2025-12-18
+
+----
+
+Location: KR / Seoul / Seogyo Square
+
+----
+
+Player: - page://AHVTOXwrav3sYT8S
+
+----
+
+Sort: 110
+
+----
+
+Uuid: yJG4Z45rN5Z5xV26
+
+----
+
+Template: sound

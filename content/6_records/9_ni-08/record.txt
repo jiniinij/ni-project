@@ -1,0 +1,42 @@
+Title: NI 08
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Category: RecordingSession
+
+----
+
+Subject: 
+
+----
+
+Participants:
+
+- page://uiqTNXDtCru8JZG1
+- page://AHVTOXwrav3sYT8S
+- page://upecXLHfp0VlzSbG
+- page://jnrmnjaQWOdeIlJD
+- page://2F1JMQw11GEdILTH
+
+----
+
+Description: <p>▪Haegeum<br>Performer: Yeji Kim<br>With Haegeum player Yeji Kim, we conducted an in-depth exploration ranging from the instrument's basic structure to extended techniques and even deconstruction. We attempted various 'prepared' techniques, such as inserting an eraser instead of the bridge (won-san) or attaching clips to the strings to create metallic vibrations. regarding performance techniques, we implemented complex methods like combining glissando and tremolo while bowing two strings simultaneously (double stop) to create thick layers of sound. We secured numerous experimental sources dealing with delicate harmonics and noise, including playing 'behind the bridge' to produce sharp high frequencies, bisbigliando for subtle timbre changes, flautando (bowing lightly over the fingerboard), and circular bowing.</p><p>▪Guitar<br>Performer: Seokhee Lee<br>With guitarist Seokhee Lee, the exploration centered on the guitar's percussive possibilities. We experimented with various textures, such as stroking muted strings, striking the body (tambour), playing with twisted strings, or generating friction noise without plucking. We also recorded mechanical noises from the headstock and used a bow to play the guitar like a bowed string instrument, securing various noises and textures.</p>
+
+----
+
+Photos:
+
+- file://o6PcNVXwOUe4wCsB
+- file://qBtGNvBXFzrRLdmn
+
+----
+
+Uuid: Az8kHDtHywV6FlXR

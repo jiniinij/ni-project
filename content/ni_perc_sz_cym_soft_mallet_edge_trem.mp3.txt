@@ -1,0 +1,33 @@
+Duration: 00:29
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Executing a roll on the edge of a sizzle cymbal with a soft mallet.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 76
+
+----
+
+Uuid: xoI3qqZhZzz2vNyP
+
+----
+
+Template: sound

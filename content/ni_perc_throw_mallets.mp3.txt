@@ -1,0 +1,33 @@
+Duration: 00:04
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Placing mallets made of various materials simultaneously.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 78
+
+----
+
+Uuid: BJMPIJ3JC7dXz7A8
+
+----
+
+Template: sound

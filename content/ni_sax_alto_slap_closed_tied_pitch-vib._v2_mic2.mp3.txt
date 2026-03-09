@@ -1,0 +1,33 @@
+Duration: 00:13
+
+----
+
+Instrument: Saxophone
+
+----
+
+Description: <p><strong>Executing a Closed Slap (creating a percussive sound by attaching the tongue to the reed and quickly releasing it) and connecting it to a vibrato note.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://muGLgdrnrcMPA0Lz
+
+----
+
+Sort: 94
+
+----
+
+Uuid: UxhHUIg3MRaBr02e
+
+----
+
+Template: sound

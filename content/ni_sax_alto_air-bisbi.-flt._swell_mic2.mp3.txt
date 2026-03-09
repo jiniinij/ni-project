@@ -1,0 +1,33 @@
+Duration: 00:10
+
+----
+
+Instrument: Saxophone
+
+----
+
+Description: <p><strong>Simultaneously applying Air Sound (emphasizing air), Bisbigliando (alternating fingerings), and Flutter Tonguing (rolling the tongue) on the alto saxophone.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://muGLgdrnrcMPA0Lz
+
+----
+
+Sort: 86
+
+----
+
+Uuid: IjmrehEK5cUN2wFg
+
+----
+
+Template: sound

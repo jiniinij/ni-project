@@ -1,0 +1,33 @@
+Duration: 00:37
+
+----
+
+Instrument: Electric Bass
+
+----
+
+Description: <p><strong>Glissando / Executing a fast glissando while pressing a bass guitar string with the left hand.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://upecXLHfp0VlzSbG
+
+----
+
+Sort: 22
+
+----
+
+Uuid: sTbrwbaKVJ0PsS76
+
+----
+
+Template: sound

@@ -1,0 +1,33 @@
+Duration: 04:32
+
+----
+
+Instrument: 
+
+----
+
+Description: <p>The title of this work, 'Thin Section,' refers to a rock specimen sliced extremely thin for petrographic analysis. Due to the unique textures and colors of the constituent minerals, a thin section resembles the intricate patterns of stained glass. Just as collected rock samples reveal a higher-dimensional image when sliced and arranged, this piece adopts a compositional method of organizing the work by arranging a diverse array of sound samples.</p><p>In this creative process, I rejected artificial modification or forced structuring. Instead, I drew upon the aesthetics of Suseok (viewing stones), where natural stones are appreciated in their original form, and the 'Rock Garden,' where context is imbued through simple arrangement. My aim was to maintain the innate forms of the pre-collected sounds by granting them context and interpretation. This stems from the intention to realize an 'Instrumental Soundscape,' deriving artistic possibilities through the very acts of collection and classification.</p><p>The instrumentation follows the principle of the 'Found Object.' Sounds, collected by chance, were organized into various instrument groups to secure the widest possible range and the most colorful timbres. These combined instruments function as a single, massive 'Meta-Instrument'—essentially, a singular solo instrument. Here, the economic logic of 'maximum effect with minimum capital,' often cited as a virtue in creation, is intentionally rejected. Instead, this approach is rooted in the methodology of Anton Webern, who pursued the minute division of timbre.</p><p>Just as mineralogy classifies over 6,000 types of rocks, I classified sound timbres—which are often difficult to define—according to unique principles. By replacing and repetitively presenting them in every bar, I constructed a Klangfarbenmelodie (tone-color melody). While rhythmically it may appear simple, if one perceives the micro-changes in timbre as a melodic line, it becomes an endlessly unfolding, colorful melody. These 'quasi-repetitions' and 'imitations' create loose links between sounds, revealing a massive structure of repetition through their accumulation. This mirrors the geological process of understanding the macroscopic structure of a rock by magnifying a thin section under a microscope.</p><p>This principle of imitation also resonates with the 'Lick' in jazz. Just as a lick operates variably depending on the player's interpretation, the techniques in this piece possess a non-fixed fluidity—a characteristic where they are not always reproduced identically. Furthermore, jazz motifs appear in the form of 'Swing,' where sequences of eighth notes are colorfully stretched or compressed within an extremely slow tempo. Such a slow swing presents a level of difficulty that is nearly impossible to realize in live performance; paradoxically, this emphasizes the work's digital nature while complicating its implicit and macroscopic structure. Inspired by the digital effect of 'Time Stretching,' this temporality of contraction and expansion extends the existing concept of melody into the dimensions of the horizontal (time) and the vertical (timbre and spectrum).</p>
+
+----
+
+Date: 2025-12-18
+
+----
+
+Location: KR / Seoul / Seogyo Square
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 114
+
+----
+
+Uuid: RyWlIdEwaI4JJyG5
+
+----
+
+Template: sound

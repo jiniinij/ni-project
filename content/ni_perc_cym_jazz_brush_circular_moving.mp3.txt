@@ -1,0 +1,33 @@
+Duration: 00:14
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Swirling a Jazz Brush on the cymbal in a circular motion.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 65
+
+----
+
+Uuid: WKDkwtM4z4cI63pk
+
+----
+
+Template: sound

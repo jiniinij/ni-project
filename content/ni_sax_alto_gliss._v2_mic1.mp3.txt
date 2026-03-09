@@ -1,0 +1,33 @@
+Duration: 00:08
+
+----
+
+Instrument: Saxophone
+
+----
+
+Description: <p><strong>Glissando / Executing a glissando that gradually connects a wide range of notes on the alto saxophone.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://muGLgdrnrcMPA0Lz
+
+----
+
+Sort: 91
+
+----
+
+Uuid: hau1xDFE0BNJrAem
+
+----
+
+Template: sound

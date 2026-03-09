@@ -1,0 +1,29 @@
+Title: Libra
+
+----
+
+Audio: - file://A6hAFquyXn6Q0hbl
+
+----
+
+Duration: 01:24
+
+----
+
+Composer: - page://2F1JMQw11GEdILTH
+
+----
+
+Instrumentation: <p>Orchestra / Choir / Electronics</p>
+
+----
+
+Description: <p>Samples of contemporary instrumental techniques were edited and processed, then woven subtly yet distinctly into the game’s musical fabric. Some sounds were preserved in near-original form, with slight adjustments to space, tone, and blend to integrate smoothly with other instruments and textures. Others were treated more experimentally, applying production-based approaches to explore possibilities beyond conventional instrumental practice.</p><p>By combining both unaltered and heavily processed materials, the work highlights the potential of contemporary instrumental techniques—rarely heard in media music—within a new sonic context. It also reflects on creative strategies in an era defined by rapid technological advancement and the rise of artificial intelligence.</p>
+
+----
+
+Date: 2025-01-01
+
+----
+
+Uuid: OfsbjRgw6RmaAgac

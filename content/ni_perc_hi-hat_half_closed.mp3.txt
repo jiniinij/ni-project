@@ -1,0 +1,33 @@
+Duration: 00:30
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Striking the hi-hats while pressing the pedal halfway so the cymbals are loosely closed.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 68
+
+----
+
+Uuid: CyrkQgUKd9Nv0P8K
+
+----
+
+Template: sound

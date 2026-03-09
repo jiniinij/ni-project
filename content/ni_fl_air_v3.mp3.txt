@@ -1,0 +1,33 @@
+Duration: 00:46
+
+----
+
+Instrument: Flute
+
+----
+
+Description: <p><strong>Air Sound / Emphasizing the sound of air rather than a clear pitch on the flute.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 30
+
+----
+
+Uuid: ARTf6dP4M31NZKy1
+
+----
+
+Template: sound

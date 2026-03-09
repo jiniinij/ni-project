@@ -1,0 +1,33 @@
+Duration: 01:42
+
+----
+
+Instrument: Electric Bass
+
+----
+
+Description: <p><strong>Bending / Raising the pitch after picking by pushing or pulling the string sideways with the left hand. The pitch rises regardless of the direction the string is moved (pushed up or pulled down).</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://upecXLHfp0VlzSbG
+
+----
+
+Sort: 21
+
+----
+
+Uuid: Gaqo8Q5A5g4y332q
+
+----
+
+Template: sound

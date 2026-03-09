@@ -1,0 +1,38 @@
+Title: For Morty
+
+----
+
+Audio: - file://u6ugsejSX5yZrIAP
+
+----
+
+Duration: 
+
+----
+
+Composer: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Instrumentation: <p>Fl. / Bsn. / Perc. / Va.</p>
+
+----
+
+Description: <p>This work is dedicated to composer Morton Feldman, who himself left behind numerous works of homage. Its instrumentation draws inspiration from his celebrated piece The Viola in My Life, centering on the viola while also incorporating instruments frequently heard in Feldman’s music, such as the flute and vibraphone.</p><p>Feldman often explored fragments that appear similar yet subtly diverge—sonic elements that resist possession or complete definition. Interpreting this sensibility through the lens of a soundscape, this piece weaves together instrumental techniques that evoke the elusive, non-reproducible qualities of sounds found in nature.</p><p>The techniques employed in the work display distinctive traits in tone color and register, naturally varying with each performer and instrument. Through close collaboration with the musicians, I developed what could be described as a social and auditory field guide—a network of sonic relationships—by documenting, recording, and arranging the captured sounds into an auditory space-time of its own.</p>
+
+----
+
+Date: 2025-01-01
+
+----
+
+Sounds:
+
+- file://HoIEDIJtMFkZ16qq
+- file://do0heXIazmO72dlT
+- file://iR1epYn02TfUXm1k
+- file://XLm7nbC6t0Mn5TfK
+
+----
+
+Uuid: eSreSYxqWw8RRkcA

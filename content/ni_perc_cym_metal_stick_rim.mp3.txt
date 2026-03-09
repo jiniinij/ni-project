@@ -1,0 +1,33 @@
+Duration: 00:23
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Striking the edge of the cymbal using a metal stick.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 67
+
+----
+
+Uuid: 2PbMbhH9Y3zH8DPe
+
+----
+
+Template: sound

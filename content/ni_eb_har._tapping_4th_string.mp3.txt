@@ -1,0 +1,33 @@
+Duration: 01:59
+
+----
+
+Instrument: Electric Bass
+
+----
+
+Description: <p><strong>Harmonics Tapping / Quickly tapping the nodes* on the 4th string of the bass guitar with the left hand, allowing the natural overtones to resonate.<br><br>*Node: Points on the string where the amplitude is always zero during vibration.<br>**Tapping: A technique of striking the fretboard with a finger to produce a pitch.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://upecXLHfp0VlzSbG
+
+----
+
+Sort: 23
+
+----
+
+Uuid: WXgFxjkuKuw3hJg2
+
+----
+
+Template: sound

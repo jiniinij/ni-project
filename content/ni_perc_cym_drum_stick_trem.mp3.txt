@@ -1,0 +1,33 @@
+Duration: 01:13
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Roll / Executing a roll (tremolo) on the cymbal using drumsticks.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 64
+
+----
+
+Uuid: T9ayh062feZcuXyU
+
+----
+
+Template: sound

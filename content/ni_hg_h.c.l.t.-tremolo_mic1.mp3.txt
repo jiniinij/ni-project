@@ -1,0 +1,33 @@
+Duration: 00:13
+
+----
+
+Instrument: Haegeum
+
+----
+
+Description: <p><strong>Executing a tremolo combined with Half Col Legno Tratto (bowing with both the wood and the bow hair simultaneously).</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://uiqTNXDtCru8JZG1
+
+----
+
+Sort: 59
+
+----
+
+Uuid: DT8ArMrgrr2SmYhW
+
+----
+
+Template: sound

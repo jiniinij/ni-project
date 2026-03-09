@@ -1,0 +1,33 @@
+Title: Composed Impulse I
+
+----
+
+Audio: - file://4EliaAyVZsXN63YW
+
+----
+
+Duration: 
+
+----
+
+Composer: - page://w6hzMxNrDaZLwGQ6
+
+----
+
+Instrumentation: <p>Fl. / Cl. B♭ / Bsn. / E.Pno. / Va.</p>
+
+----
+
+Description: <p>He once held a strict belief that every element of a composition should be fully controlled through notation—that every note and every gesture must exist for a reason. However, in this work, he intentionally departs from that conviction, allowing space for the performers to interpret and transform the sound on their own.</p><p>In this project, I functioned both as composer and performer. The sounds produced by the performers were recorded, fixed, and played back repeatedly, while the synthesizer sound took on an opposing role—it changed every time, and could not be precisely replicated. Even with the same instrument, it responded slightly differently with each performance.</p><p>For this reason, I adjusted and edited the recorded sounds to fit the notated score, whereas the synthesizer, being unstable by nature, was approached differently: the work was divided into five sections, each organized according to the texture of the sound rather than strict notation.</p><p>Through this process, I moved fluidly between the roles of composing and performing, navigating between structured form and intuitive decision-making. This piece revealed to me that, at certain moments, accepting the flow and suspending judgment can itself become an essential part of creation.</p>
+
+----
+
+Date: 2024-01-01
+
+----
+
+Sounds: 
+
+----
+
+Uuid: IkkVLCtIMRwZpvxj

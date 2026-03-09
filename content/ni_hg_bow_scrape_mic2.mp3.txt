@@ -1,0 +1,33 @@
+Duration: 02:43
+
+----
+
+Instrument: Haegeum
+
+----
+
+Description: <p><strong>Bow Scrape / Pressing the bow hair onto the string with strong pressure and twisting it.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://uiqTNXDtCru8JZG1
+
+----
+
+Sort: 53
+
+----
+
+Uuid: Qz0UKN8VURijUVP0
+
+----
+
+Template: sound

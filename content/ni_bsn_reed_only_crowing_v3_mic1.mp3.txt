@@ -1,0 +1,33 @@
+Duration: 00:07
+
+----
+
+Instrument: Bassoon
+
+----
+
+Description: <p><strong>Playing strongly on the bassoon reed by itself.</strong></p>
+
+----
+
+Date: 2025-01-22
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://6p8B5cwRjvtrZZUs
+
+----
+
+Sort: 15
+
+----
+
+Uuid: yjMHj5TkiAknvxIl
+
+----
+
+Template: sound

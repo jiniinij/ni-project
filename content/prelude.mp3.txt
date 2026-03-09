@@ -1,0 +1,33 @@
+Duration: 01:26
+
+----
+
+Instrument: 
+
+----
+
+Description: <p>This work is constructed by integrating contemporary sonic elements into the classical framework of a Sonatine. Throughout the compositional process, a fundamental question persistently arose: "Has music truly evolved with the passage of time?" This inquiry naturally served as the genesis of the piece.<br><br>Furthermore, the work is permeated by questions regarding whether auditory experience can transcend the visual, and whether avant-garde music still retains valid significance today. In an era where technology and media have expanded, I sought to re-examine the sensory position that music occupies. I believe that music should not remain an isolated experiment but must ultimately move towards a direction where it can be shared and enjoyed by all.<br><br>Navigating the gaps between form and sound, past and present, this piece quietly poses a question to the listener: "For whom does this music exist?"</p>
+
+----
+
+Date: 2025-06-28
+
+----
+
+Location: KR / Seoul / OPCD
+
+----
+
+Player: - page://8UeOPI0u36eK9ZkF
+
+----
+
+Sort: 112
+
+----
+
+Uuid: fQwWVPzU0NuQB833
+
+----
+
+Template: sound

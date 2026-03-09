@@ -1,0 +1,33 @@
+Duration: 01:09
+
+----
+
+Instrument: Guitar
+
+----
+
+Description: <p><strong>Col Legno Tratto / Bowing the guitar strings with the wooden part of a double bass bow.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 46
+
+----
+
+Uuid: lS7fMNOToh9wcBGA
+
+----
+
+Template: sound

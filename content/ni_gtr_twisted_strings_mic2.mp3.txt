@@ -1,0 +1,33 @@
+Duration: 01:13
+
+----
+
+Instrument: Guitar
+
+----
+
+Description: <p><strong>Amplifying noise by playing while twisting two guitar strings together.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 51
+
+----
+
+Uuid: vud3xWPtDlftXe0Q
+
+----
+
+Template: sound

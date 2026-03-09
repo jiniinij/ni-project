@@ -1,0 +1,33 @@
+Duration: 00:45
+
+----
+
+Instrument: Guitar
+
+----
+
+Description: <p><strong>Striking the body of the guitar with the hand to create a percussive sound.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 45
+
+----
+
+Uuid: wogANDLVpL30YxzH
+
+----
+
+Template: sound

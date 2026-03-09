@@ -1,0 +1,33 @@
+Duration: 00:19
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Secco / Striking the snare drum head with a drumstick and immediately pressing the stick onto the head to reduce resonance.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 70
+
+----
+
+Uuid: zDKUusXVgc2qZzQN
+
+----
+
+Template: sound

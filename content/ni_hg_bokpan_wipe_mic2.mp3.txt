@@ -1,0 +1,33 @@
+Duration: 00:15
+
+----
+
+Instrument: Haegeum
+
+----
+
+Description: <p><strong>Scratching the Bok-pan* (resonance box) with a fingernail to create a light scraping sound.<br><br>*Bok-pan: The thin wooden plate attached to the front of the Haegeum's resonance box.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://uiqTNXDtCru8JZG1
+
+----
+
+Sort: 52
+
+----
+
+Uuid: qVKXNcxn1LL9B2rd
+
+----
+
+Template: sound

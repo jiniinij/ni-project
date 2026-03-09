@@ -1,0 +1,33 @@
+Duration: 00:10
+
+----
+
+Instrument: Bassoon
+
+----
+
+Description: <p>Multiphonics / Producing two or more pitches simultaneously on the bassoon.*</p><p>*Fingerings are referenced from &lt;The Techniques of Bassoon Playing&gt; by Pascal Gallois (BärenreiIter edition).</p>
+
+----
+
+Date: 2025-01-22
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://6p8B5cwRjvtrZZUs
+
+----
+
+Sort: 8
+
+----
+
+Uuid: ZrXytFO5aieUMEP2
+
+----
+
+Template: sound

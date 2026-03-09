@@ -1,0 +1,120 @@
+Title: Soundsamples
+
+----
+
+Sounds:
+
+- file://60TeZfIKXN9ZGOYv
+- file://hXtpxF31xnc1VfQk
+- file://DsVdtZUFe3gmFjmo
+- file://lBcRj04aCo0S9MUl
+- file://yM7IbIxuPUmr8Rf2
+- file://bCwtIfD3EIKLJmY2
+- file://Z4FmIe5YF5BnOUbg
+- file://ZrXytFO5aieUMEP2
+- file://ZfAR1XNLjNETAWXI
+- file://O3XYVRhU79yYnUcP
+- file://q5AETSkpatDZS6kg
+- file://XZ4yGWdXURV3fDL4
+- file://nVX0v1PNKW9y8Ag4
+- file://Yer8WpuoMCssaoo1
+- file://uy8Gx3qeyLJ2UMuD
+- file://6tfAfBQtz7nwKXrY
+- file://yjMHj5TkiAknvxIl
+- file://FvZ8YIukqp7rjApF
+- file://9MCaoV2YNbtKGUBB
+- file://bgoOunborOfOhJ57
+- file://Gaqo8Q5A5g4y332q
+- file://sTbrwbaKVJ0PsS76
+- file://WXgFxjkuKuw3hJg2
+- file://yJkw6gXZmIGd92Zz
+- file://QhIYhP6J7cBzqwLl
+- file://hgOiyXWUSXbdNmtI
+- file://LhvhAg06cVAzrchi
+- file://ONTE0uVJ8RdwxBEa
+- file://41NpLBPZ0HJWanun
+- file://ARTf6dP4M31NZKy1
+- file://Kv1odFBJ05dCPIrq
+- file://xXMxwOd46NKWkgOK
+- file://PoiTcfvuyfCthi0Y
+- file://n7tWZvDnJqOg4IdP
+- file://8zA7jbWTVG4Pi4ws
+- file://KoAClIm2PcJLX6Ip
+- file://k1MGXOxYWgqJAkp6
+- file://S1QpmBuh1jQsFmmQ
+- file://u7DgbELrXQ09R32M
+- file://pOLEUlJB6j5YUkPA
+- file://wylkjHcFr0dT1Tt5
+- file://MDBhOLl1bKbJXklU
+- file://3eigAXZVw97v8JWN
+- file://AITn1XMypPmyWoUI
+- file://wogANDLVpL30YxzH
+- file://hhFAf4Y1L5MYvJNQ
+- file://lS7fMNOToh9wcBGA
+- file://FuBEs7ufuMZ1ML7j
+- file://008mb7t4pZ6gGq97
+- file://AAEuHYzHXXOvCxnx
+- file://vud3xWPtDlftXe0Q
+- file://qVKXNcxn1LL9B2rd
+- file://Qz0UKN8VURijUVP0
+- file://vz5ZnHsDY3VIQP5C
+- file://aHLJqHj1wm7qQsjK
+- file://7Lbdp5Sders11PLo
+- file://CkgstuWJWVWobp5m
+- file://1qytj9jrN8O4aYPq
+- file://DT8ArMrgrr2SmYhW
+- file://jjSakorG31WRwpbw
+- file://R2k1o8efvFnreJsp
+- file://oo8i42ppSWj7VaDE
+- file://1kJLkrfufwB5EDkD
+- file://T9ayh062feZcuXyU
+- file://WKDkwtM4z4cI63pk
+- file://boRF7GQdfE9RU3Pm
+- file://2PbMbhH9Y3zH8DPe
+- file://CyrkQgUKd9Nv0P8K
+- file://dA84CG7SUQyk21j0
+- file://2sVZwIsyejSfmXSJ
+- file://zDKUusXVgc2qZzQN
+- file://TlERmgtFiovSgywV
+- file://2MBSwzuP2yy43gIv
+- file://dRHRRwzb7QpSBWco
+- file://xoI3qqZhZzz2vNyP
+- file://ltg6Od5gOH8C9Iv1
+- file://5kECGXR6T6UYRJ2j
+- file://CCijiYqpDxqqQGiz
+- file://BJMPIJ3JC7dXz7A8
+- file://ztVuMdoJ2eADHfb4
+- file://Pu6nlKX87LYia0vZ
+- file://zdjjb3qCjbSPBF0Y
+- file://BKXiuchWOCOWmoIx
+- file://0KKJ0NnNA9SCSxcy
+- file://IjmrehEK5cUN2wFg
+- file://9HGC14lRH2nBIGFc
+- file://xWAdSeLJUl5WWj9p
+- file://sMxLX9fddJ9pUMfY
+- file://EXi9M2mVbWte5lmv
+- file://ixgQuNw0PZEysuIp
+- file://hau1xDFE0BNJrAem
+- file://9NfJiTRDtFguxSeX
+- file://CxFJZnyKmVQ3HSKL
+- file://UxhHUIg3MRaBr02e
+- file://twFQw212Khor6wTf
+- file://wfrO3qMhmenKQu7u
+- file://n4MeWp5e5jHPjd4l
+- file://4yT29z9i7uLld2vB
+- file://9OXKntv9EL7TvQpw
+- file://jkYRgWyXBTTOIQSl
+- file://Wdnljg1SxspuRznq
+- file://sZQtaTa91lAP8dCe
+- file://daDTVL6xVcqkzi0d
+- file://UG6afjoFFRx9O9Fr
+- file://f42Bop5EDyYY3G2t
+- file://hIk1xyl5uWTBD217
+
+----
+
+Description: <p>NI Project invites performers to directly ‘sample’ seldom-realized contemporary techniques and elevates this process into new works. Each composer analyzes the instrument's physical characteristics, performance gestures, and subtle timbral differences based on samples recorded by the performers, then reconstructs them to create new musical structures. In this process, the sample transcends its role as mere sound data; it functions as both a compositional material and another act of performance, showing the process of existing performance expanding into a different form of music. These activities aim for more than simple sonic archiving; they target collaboration between composers and performers, in-depth exploration of instruments, the expansion of compositional media, and the development of contemporary music. Furthermore, the project seeks to experiment with the boundaries between performance and composition, documentation and re-creation, and to re-examine the relationship between sound and human, technology and art, within the context of contemporary music.</p>
+
+----
+
+Uuid: S0KyeQqJdhy2StE8

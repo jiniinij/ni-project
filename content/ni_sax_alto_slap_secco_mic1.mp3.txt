@@ -1,0 +1,33 @@
+Duration: 00:55
+
+----
+
+Instrument: Saxophone
+
+----
+
+Description: <p><strong>Secco Slap / Executing the same percussive tongue-action as a Closed Slap (attaching the tongue to the reed and quickly releasing it), but without blowing any air.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://muGLgdrnrcMPA0Lz
+
+----
+
+Sort: 96
+
+----
+
+Uuid: wfrO3qMhmenKQu7u
+
+----
+
+Template: sound

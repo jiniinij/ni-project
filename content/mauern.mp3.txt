@@ -1,0 +1,33 @@
+Duration: 02:50
+
+----
+
+Instrument: 
+
+----
+
+Description: <p>Mauern means 'to build a wall' in German. In Korean, it can be translated as 'the act of stacking stones or bricks,' or, more technically, 'masonry.'</p><p>This piece gradually builds its structure by repeating, contracting, expanding, and rearranging a single sonic element. Even when the same material is used, entirely different textures and timbres emerge depending on how effects are applied, producing unfamiliar results that deviate from the sound’s original character.</p><p>This process resembles the act of building a wall. Just as one lays bricks horizontally or vertically—sometimes cutting or twisting their edges in the repetitive labor of masonry—the piece constructs a completely new sonic architecture through the repetition and transformation of the same sound material.</p>
+
+----
+
+Date: 2025-06-28
+
+----
+
+Location: KR / Seoul / OPCD
+
+----
+
+Player: - page://upecXLHfp0VlzSbG
+
+----
+
+Sort: 111
+
+----
+
+Uuid: B5R6cJs7pP22uzuk
+
+----
+
+Template: sound

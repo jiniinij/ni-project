@@ -1,0 +1,33 @@
+Duration: 00:06
+
+----
+
+Instrument: Saxophone
+
+----
+
+Description: <p>Simultaneously applying Bisbigliando (alternating fingerings) and Singing (producing a vocal pitch) in<strong> </strong>the Altissimo Register (highest register) of the alto saxophone.</p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://muGLgdrnrcMPA0Lz
+
+----
+
+Sort: 89
+
+----
+
+Uuid: xWAdSeLJUl5WWj9p
+
+----
+
+Template: sound

@@ -1,0 +1,13 @@
+Title: Project NI
+
+----
+
+Description: <p>NI Project invites performers to directly ‘sample’ seldom-realized contemporary techniques and elevates this process into new works. Each composer analyzes the instrument's physical characteristics, performance gestures, and subtle timbral differences based on samples recorded by the performers, then reconstructs them to create new musical structures. In this process, the sample transcends its role as mere sound data; it functions as both a compositional material and another act of performance, showing the process of existing performance expanding into a different form of music. These activities aim for more than simple sonic archiving; they target collaboration between composers and performers, in-depth exploration of instruments, the expansion of compositional media, and the development of contemporary music. Furthermore, the project seeks to experiment with the boundaries between performance and composition, documentation and re-creation, and to re-examine the relationship between sound and human, technology and art, within the context of contemporary music.</p>
+
+----
+
+Logo: 
+
+----
+
+Uuid: M8oLLpLpXUVynJ35

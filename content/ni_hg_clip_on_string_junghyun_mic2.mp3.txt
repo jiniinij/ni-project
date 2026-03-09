@@ -1,0 +1,33 @@
+Duration: 01:18
+
+----
+
+Instrument: Haegeum
+
+----
+
+Description: <p><strong>Bowing the Jung-hyeon* with a paper clip attached to it.<br><br>*Jung-hyeon: The inner, thicker string.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://uiqTNXDtCru8JZG1
+
+----
+
+Sort: 55
+
+----
+
+Uuid: aHLJqHj1wm7qQsjK
+
+----
+
+Template: sound

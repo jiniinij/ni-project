@@ -1,0 +1,33 @@
+Duration: 00:18
+
+----
+
+Instrument: Saxophone
+
+----
+
+Description: <p>Simultaneously applying a Double Trill (rapidly alternating three or more notes) and Singing (producing a vocal pitch) on the alto saxophone.</p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://muGLgdrnrcMPA0Lz
+
+----
+
+Sort: 90
+
+----
+
+Uuid: ixgQuNw0PZEysuIp
+
+----
+
+Template: sound

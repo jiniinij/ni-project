@@ -1,0 +1,33 @@
+Duration: 00:13
+
+----
+
+Instrument: Flute
+
+----
+
+Description: <p><strong>Multiphonics / Producing two or more pitches simultaneously on the flute.*<br><br>*Fingerings are referenced from &lt;The Techniques of Flute Playing&gt; by Carl Levine (Bärenreiter edition).</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 40
+
+----
+
+Uuid: u7DgbELrXQ09R32M
+
+----
+
+Template: sound

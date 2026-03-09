@@ -1,0 +1,33 @@
+Duration: 00:38
+
+----
+
+Instrument: Guitar
+
+----
+
+Description: <p><strong>Nail Battuto / Tapping the guitar strings with the fingernail tips.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 42
+
+----
+
+Uuid: 3eigAXZVw97v8JWN
+
+----
+
+Template: sound

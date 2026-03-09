@@ -1,0 +1,33 @@
+Duration: 00:53
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Spinning a Fidget Spinner placed on the snare drum head to make it resonate.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 71
+
+----
+
+Uuid: 2sVZwIsyejSfmXSJ
+
+----
+
+Template: sound

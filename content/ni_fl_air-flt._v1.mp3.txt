@@ -1,0 +1,33 @@
+Duration: 00:42
+
+----
+
+Instrument: Flute
+
+----
+
+Description: <p><strong>Simultaneously applying Air Sound (emphasizing air sound over a clear pitch) and Flutter Tonguing (vibrating by rapidly rolling the tongue).</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 32
+
+----
+
+Uuid: Kv1odFBJ05dCPIrq
+
+----
+
+Template: sound

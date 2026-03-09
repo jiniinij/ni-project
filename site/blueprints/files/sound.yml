@@ -1,0 +1,43 @@
+title: Sound File
+
+fields:
+
+
+  duration:
+    label: Duration (MM:SS)
+    type: text
+    pattern: "^[0-5]?[0-9]:[0-5][0-9]$"
+    
+  Instrument: 
+    type: select
+    options:
+      - Bassoon
+      - Clarinet
+      - Electric Bass
+      - Flute
+      - Guitar
+      - Haegeum
+      - Percussions
+      - Saxophone
+      - Viola
+
+  description:
+    type: writer
+
+  date:
+    type: date
+      
+  location:
+    type: text
+
+  player:
+    label: Instrument player
+    type: pages
+    multiple: true
+    query: site.find("members").children
+    templates: 
+     -members
+
+
+
+

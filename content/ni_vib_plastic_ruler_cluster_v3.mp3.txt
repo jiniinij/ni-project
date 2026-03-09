@@ -1,0 +1,33 @@
+Duration: 00:29
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Striking multiple vibraphone bars simultaneously by laying a plastic ruler flat across them.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 102
+
+----
+
+Uuid: sZQtaTa91lAP8dCe
+
+----
+
+Template: sound

@@ -1,0 +1,33 @@
+Duration: 00:16
+
+----
+
+Instrument: Electric Bass
+
+----
+
+Description: <p><strong>Muting the bass guitar strings with the left hand to stop the vibration while playing.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://upecXLHfp0VlzSbG
+
+----
+
+Sort: 24
+
+----
+
+Uuid: yJkw6gXZmIGd92Zz
+
+----
+
+Template: sound

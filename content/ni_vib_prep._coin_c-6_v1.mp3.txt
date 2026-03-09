@@ -1,0 +1,33 @@
+Duration: 00:17
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Striking a vibraphone bar with a coin attached, causing it to vibrate along with the bar.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 104
+
+----
+
+Uuid: daDTVL6xVcqkzi0d
+
+----
+
+Template: sound

@@ -1,0 +1,33 @@
+Duration: 00:19
+
+----
+
+Instrument: Saxophone
+
+----
+
+Description: <p><strong>Gradually changing from an Air Sound (emphasizing air) to a clear pitch, while simultaneously applying Bisbigliando (alternating fingerings for the same note).</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://muGLgdrnrcMPA0Lz
+
+----
+
+Sort: 85
+
+----
+
+Uuid: 9HGC14lRH2nBIGFc
+
+----
+
+Template: sound

@@ -1,0 +1,33 @@
+Duration: 00:48
+
+----
+
+Instrument: Saxophone
+
+----
+
+Description: <p><strong>Lip Glissando / Gradually changing the pitch using the lips (embouchure) on the alto saxophone.</strong></p>
+
+----
+
+Date: 2025-08-27
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://muGLgdrnrcMPA0Lz
+
+----
+
+Sort: 92
+
+----
+
+Uuid: CxFJZnyKmVQ3HSKL
+
+----
+
+Template: sound

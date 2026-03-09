@@ -1,0 +1,33 @@
+Duration: 00:31
+
+----
+
+Instrument: Percussions
+
+----
+
+Description: <p><strong>Harmonics / Striking the vibraphone bars while touching the center (node)* of the bars to produce harmonics.<br><br>*Node: Points on the string where the amplitude is always zero during vibration.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 100
+
+----
+
+Uuid: 9OXKntv9EL7TvQpw
+
+----
+
+Template: sound

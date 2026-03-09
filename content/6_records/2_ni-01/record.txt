@@ -1,0 +1,43 @@
+Title: NI 01
+
+----
+
+Date: 2025-01-22
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Category: RecordingSession
+
+----
+
+Subject: 
+
+----
+
+Participants:
+
+- page://6p8B5cwRjvtrZZUs
+- page://w6hzMxNrDaZLwGQ6
+- page://8UeOPI0u36eK9ZkF
+- page://jnrmnjaQWOdeIlJD
+- page://2F1JMQw11GEdILTH
+
+----
+
+Description: <p>▪Bassoon<br>Performer: Yunho Choi<br>Together with bassoonist Yunho Choi, we conducted a session demonstrating techniques centered on 'The Techniques of Bassoon Playing' published by Bärenreiter. We attempted all categories of multiphonics classified in the book, focusing on realizing complex acoustics by combining them with techniques such as bisbigliando.<br>We also placed significant emphasis on experimental approaches that involve modifying or separating parts of the instrument. This included 'prepared' techniques like attaching aluminum foil to the bell, playing only the reed to produce 'crowing' sounds or glissandos, and attempting multiphonics using only the wing joint. Through these methods, we deconstructed the instrument’s structure to explore new sounds. Additionally, we secured a wide range of special acoustic sources, including combinations of flutter tonguing and bisbigliando, jaw vibrato, cuivré (a brassy tone), and 'kissing' (placing lips directly on the reed).</p><p>▪Clarinet<br>Performer: Minseok Kim<br>Working with clarinetist Minseok Kim, we referenced Phillip Rehfeldt’s 'New Directions for Clarinet' and the archives of Heather Roche. Based on these resources, we systematically attempted and recorded various harmonic structures and multiphonics available on the clarinet.</p><p>▪Viola<br>Performer: Seokhee Lee<br>Together with violist Seokhee Lee, we recorded 'prepared viola' techniques by inserting paper clips onto the strings. The work focused on the metallic, distorted acoustics and unique harmonics generated when bowing or plucking these modified strings.</p>
+
+----
+
+Photos:
+
+- file://hto8u3e7DEql1mDN
+- file://I1aHM07Xr8jPqOlu
+- file://LWfr7XrxoSFpjuA6
+
+----
+
+Uuid: VJ3glszCms8HPPdB

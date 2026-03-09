@@ -1,0 +1,33 @@
+Duration: 00:16
+
+----
+
+Instrument: Haegeum
+
+----
+
+Description: <p><strong>Bowing the Jung-hyeon* and Yu-hyeon** of the Haegeum with a tremolo, while simultaneously executing a glissando.<br><br>*Jung-hyeon: The inner, thicker string.<br>**Yu-hyeon: The outer, thinner string, typically tuned a perfect 5th higher than the Jung-hyeon.</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://uiqTNXDtCru8JZG1
+
+----
+
+Sort: 57
+
+----
+
+Uuid: 7Lbdp5Sders11PLo
+
+----
+
+Template: sound

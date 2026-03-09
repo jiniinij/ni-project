@@ -1,0 +1,33 @@
+Duration: 00:59
+
+----
+
+Instrument: Guitar
+
+----
+
+Description: <p><strong>Bending / Raising the pitch after picking by pushing or pulling the string sideways with the left hand. The pitch rises regardless of the direction the string is moved (pushed up or pulled down).</strong></p>
+
+----
+
+Date: 2025-10-10
+
+----
+
+Location: KR / Seoul / Arts Korea Lab / Immersive Sound Studio
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 44
+
+----
+
+Uuid: AITn1XMypPmyWoUI
+
+----
+
+Template: sound

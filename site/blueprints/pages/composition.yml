@@ -1,0 +1,32 @@
+fields:
+
+  audio:
+    label: Audio
+    type: files
+    query: site.files.template("sound")
+    multiple: false
+
+  duration:
+    label: Duration (MM:SS)
+    type: text
+    pattern: "^[0-5]?[0-9]:[0-5][0-9]$"
+
+  composer:
+    type: pages
+    multiple: true
+    query: site.find("members").children
+    templates: 
+     -members
+
+  Instrumentation:
+    type: writer
+
+  description:
+    type: writer
+
+  date:
+    label: Release date
+    type: date
+
+
+

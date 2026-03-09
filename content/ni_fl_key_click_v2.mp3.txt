@@ -1,0 +1,33 @@
+Duration: 00:25
+
+----
+
+Instrument: Flute
+
+----
+
+Description: <p><strong>Key Click / Striking the keys with the fingers, causing the metal pads to create a percussive click.</strong></p>
+
+----
+
+Date: 2025-02-01
+
+----
+
+Location: KR / Seongnam / TOP Marimba
+
+----
+
+Player: - page://jnrmnjaQWOdeIlJD
+
+----
+
+Sort: 39
+
+----
+
+Uuid: S1QpmBuh1jQsFmmQ
+
+----
+
+Template: sound
